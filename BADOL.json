@@ -1,5 +1,5 @@
 {
-  "author": "BADOL",
+  "author": "BAYJID",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,16 +7,16 @@
   "notification": false,
   "approval": false,
   "saveState": false,
-  "BOTNAME": "𝐁𝟒𝐃𝟗𝐋-𝐁𝟗𝐓___//𝟎𝟎𝟕",
+  "BOTNAME": "BAYJID-CAT_6T9",
   "PREFIX": "/",
   "OPERATOR": [
-    "100001381266797"
+    "100065506668822"
   ],
   "ADMINBOT": [
-    "100001381266797",
+    "100065506668822",
     ""
   ],
-  "OWNER": ["100001381266797"], 
+  "OWNER": ["100065506668822"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
