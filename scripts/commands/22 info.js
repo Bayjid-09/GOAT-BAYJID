@@ -2,7 +2,7 @@ module.exports.config = {
   name: "info",
   version: "1.0.1", 
   permssion: 0,
-  credits: "★𝐌𝟗𝐇𝟒𝐌𝐌𝟒𝐃-𝐁𝟒𝐃𝟗𝐋★",
+  credits: "★MOHAMMAD BAYJID★",
   prefix:true,
   description: "Admin and Bot info.",
   category: "...",
@@ -24,13 +24,13 @@ const time = process.uptime(),
     seconds = Math.floor(time % 60);
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Manila").format("『D/MM/YYYY』 【hh:mm:ss】");
-var link = ["https://i.imgur.com/Yi0QXnn.jpeg", 
+var link = ["https://i.imgur.com/NSWC6R7.jpeg", 
 
-            "https://i.imgur.com/Yi0QXnn.jpeg", 
+            "https://i.imgur.com/NSWC6R7.jpeg", 
 
-            "https://i.imgur.com/Yi0QXnn.jpeg",
+            "https://i.imgur.com/NSWC6R7.jpeg",
 
-            "https://i.imgur.com/Yi0QXnn.jpeg"];
+            "https://i.imgur.com/NSWC6R7.jpeg"];
 
 var callback = () => api.sendMessage({body:`•—»✨𝐀𝐝𝐦𝐢𝐧 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧✨🌺
  •┄┅════❁🌺❁════┅┄•
@@ -41,7 +41,7 @@ var callback = () => api.sendMessage({body:`•—»✨𝐀𝐝𝐦𝐢𝐧 𝐈
 
 •┄┅══❁CONCATET❁══┅┄• 
 
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐏𝐚𝐠𝐞 : https://m.me/MBC.K1NG.007
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://m.me/BAYJID.500k
 
 •┄┅═══❁🌺❁═══┅┄•\n🌺✨𝐎𝐭𝐡𝐞𝐫𝐬 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧✨🌺\n •┄┅═══❁🌺❁═══┅┄•
 
