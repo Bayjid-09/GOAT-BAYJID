@@ -10,13 +10,14 @@
   "BOTNAME": "BAYJID-CAT_6T9",
   "PREFIX": "/",
   "OPERATOR": [
-    "100065506668822"
+    "100065506668822",
+    "100027368166947"
   ],
   "ADMINBOT": [
     "100065506668822",
     ""
   ],
-  "OWNER": ["100065506668822"], 
+  "OWNER": ["100027368166947"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
